@@ -1,6 +1,6 @@
 # Linux_Android_Icons
 
-I Icons for 64 Linux distros, included 1 windows10 and 6 windows11.
+Icons for 64 Linux distros, included 1 windows10 and 6 windows11.
 
 Use them as you wish, and hope you like it. 
 
