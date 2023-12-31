@@ -41,8 +41,7 @@
 <img src="Linux_Android_256/Phoenix.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Pop.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Puppy.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux_Android_256/Q4OS.png" alt="Github Project" style="width:20%;">  
-<img src="Linux_Android_256/Raspios.png" alt="Github Project" style="width:20%;"> 
+<img src="Linux_Android_256/Q4OS.png" alt="Github Project" style="width:20%;"><img src="Linux_Android_256/Raspios.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/ReactOS.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Rebornos.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Redhat.png" alt="Github Project" style="width:20%;"> 
@@ -69,4 +68,5 @@
 <img src="Linux_Android_256/Xubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Zorin.png" alt="Github Project" style="width:20%;"> 
 
-Return ➤ [Back on Top](https://github.com/chris1111/Linux-Logo-Blue-Grey/blob/main/View-Set-IOS.md#view-set)
+
+Return ➤ [Back on Top](https://github.com/chris1111/Linux_Android_Icons/blob/Master/View-Icon-Set.md#view-set)
