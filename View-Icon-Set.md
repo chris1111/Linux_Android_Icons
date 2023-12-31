@@ -6,7 +6,7 @@
 <img src="Linux_Android_256/Bluestar.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Bodhi.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Bunsenlabs.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux_Android_256/CentOS.png" alt="Github Project" style="width:20%;"> 
+<img src="Linux_Android_256/Centos.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Clear.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Debian.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Deepin.png" alt="Github Project" style="width:20%;"> 
@@ -16,10 +16,10 @@
 <img src="Linux_Android_256/Fedora.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Feren.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Garuda.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux_Android_256/Gentoo.png" alt="Github Project" style="width:20%;"> 
+<img src="Linux_Android_256/gentoo.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Kali.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Kaos.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux_Android_256/Knoppix.png" alt="Github Project" style="width:20%;"> 
+<img src="Linux_Android_256/knoppix.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Kubuntu.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Linux.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Linuxfx_11.png" alt="Github Project" style="width:20%;"> 
@@ -41,8 +41,7 @@
 <img src="Linux_Android_256/Phoenix.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Pop.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Puppy.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux_Android_256/Q4OS.png" alt="Github Project" style="width:20%;"> 
-<img src="Linux_Android_256/Qubes.png" alt="Github Project" style="width:20%;"> 
+<img src="Linux_Android_256/Q4OS.png" alt="Github Project" style="width:20%;">  
 <img src="Linux_Android_256/Raspios.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/ReactOS.png" alt="Github Project" style="width:20%;"> 
 <img src="Linux_Android_256/Rebornos.png" alt="Github Project" style="width:20%;"> 
