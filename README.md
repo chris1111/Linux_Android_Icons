@@ -8,9 +8,9 @@ Use them as you wish, and hope you like it.
 
 #### View `Icon Set` complet ➥ [Linux Icon Set](https://github.com/chris1111/Linux_Android_Icons/blob/Master/View-Icon-Set.md)
 
-Download ➤ [Icon Set 512](https://github.com/chris1111/Linux_Android_Icons/releases/download/V1/IOS_512.zip)
+Download ➤ [Icon Set 512](https://github.com/chris1111/Linux_Android_Icons/releases/download/V1/Linux_Android_512.zip)
 
-Download ➤ [Icon Set 256](https://github.com/chris1111/Linux_Android_Icons/releases/download/V1/IOS_256.zip)
+Download ➤ [Icon Set 256](https://github.com/chris1111/Linux_Android_Icons/releases/download/V1/Linux_Android_256.zip)
 
 Other Linux Icons ➤ [Linux-Logo-Blue-Grey](https://github.com/chris1111/Linux-Logo-Blue-Grey) ➤ [Linux-Logo-LineForm](https://github.com/chris1111/Linux-Logo-LineForm) ➤ [Purple_Ring_Linux_Logo](https://github.com/chris1111/Purple_Ring_Linux_Logo) 
 ➤ [Linux-Logo-Black-White](https://github.com/chris1111/Linux-Logo-Black-White)
